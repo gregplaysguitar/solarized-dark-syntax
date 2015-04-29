@@ -1,9 +1,9 @@
 {
-  "name": "solarized-dark-syntax",
+  "name": "solarized-dark-syntax-custom",
   "theme": "syntax",
   "version": "0.33.0",
   "description": "A dark syntax theme using the solarized colors",
-  "repository": "https://github.com/atom/solarized-dark-syntax",
+  "repository": "https://github.com/gregplaysguitar/solarized-dark-syntax-custom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
